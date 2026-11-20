@@ -1,0 +1,7 @@
+path: C:/Users/MSII/Documents/11S24050_KecerdasanBuatan_ComputerVision/dataset
+train: images/train
+val: images/val
+names:
+  0: melon
+  1: daun
+  2: buah_rusak
